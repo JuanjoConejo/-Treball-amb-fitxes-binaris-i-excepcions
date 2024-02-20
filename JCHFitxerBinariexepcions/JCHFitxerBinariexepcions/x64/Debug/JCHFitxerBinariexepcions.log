@@ -1,0 +1,4 @@
+﻿  JCHFitxerBinariexepcions.cpp
+E:\AluCiclesGS1\JCHFitxerBinariexepcions\JCHFitxerBinariexepcions\JCHFitxerBinariexepcions.cpp(80,23): warning C4244: 'inicializando': conversión de '__int64' a 'int'; posible pérdida de datos
+E:\AluCiclesGS1\JCHFitxerBinariexepcions\JCHFitxerBinariexepcions\JCHFitxerBinariexepcions.cpp(90,13): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  JCHFitxerBinariexepcions.vcxproj -> E:\AluCiclesGS1\JCHFitxerBinariexepcions\x64\Debug\JCHFitxerBinariexepcions.exe
